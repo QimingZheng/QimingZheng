@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**QimingZheng/QimingZheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is Qiming (启明)
 
-Here are some ideas to get you started:
+**I’m currently Looking at & Working on & Wish TODO**
+- [x] Build simple Interpreter & Compiler from scratch
+- [x] Learn Halide (&TVM) schedule generation
+- [x] Practise full-stack skills using React + Spring Boot + Redis/MySQL
+- [ ] Learn Basic Computer Graphics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Contents from Internet that I found helpful or interesting:**
+
+1. [GAMES-101](https://sites.cs.ucsb.edu/~lingqi/teaching/games101.html)
+2. [TiKV Courses](https://github.com/pingcap/talent-plan)
+3. and more ...
+
+**Only one year left before my graduation, so many things in my wish list, DAY-DAY-UP!**
