@@ -15,3 +15,5 @@ This is Qiming (启明)
 3. and more ...
 
 **Only one year left before my graduation, so many things in my wish list, DAY-DAY-UP!**
+
+![image](./RichardFerman.jpg)
