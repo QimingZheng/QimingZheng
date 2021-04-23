@@ -16,4 +16,5 @@ This is Qiming (启明)
 
 **Only one year left before my graduation, so many things in my wish list, DAY-DAY-UP!**
 
-![image](./RichardFerman.jpg)
+<!--![image](./RichardFerman.jpg){:height="36px" width="36px"} -->
+<img src="./RichardFerman.jpg" width="600" height="350" />
