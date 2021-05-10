@@ -1,10 +1,14 @@
+<img src="./RichardFerman.jpg" width="800" height="450" />
+
 ### Hi there 👋
 
 This is Qiming (启明)
 
 **I’m currently Looking at & Working on & Wish TODO**
-- [x] Build simple Interpreter & Compiler from scratch
-- [x] Learn Halide (&TVM) schedule generation
+- [x] Compiling-Related
+  - [x] Build simple Interpreter & Compiler from scratch
+  - [x] Polyhedral optimizations theories (a bunch of mathematical techniques)
+  - [x] Learn Halide (&TVM) schedule generation
 - [x] Practise full-stack skills using React + Spring Boot + Redis/MySQL
 - [ ] Learn Basic Computer Graphics
 
@@ -14,7 +18,4 @@ This is Qiming (启明)
 2. [TiKV Courses](https://github.com/pingcap/talent-plan)
 3. and more ...
 
-**Only one year left before my graduation, so many things in my wish list, DAY-DAY-UP!**
-
-<!--![image](./RichardFerman.jpg){:height="36px" width="36px"} -->
-<img src="./RichardFerman.jpg" width="600" height="350" />
+**Lifelong Learning, DAY-DAY-UP!**
