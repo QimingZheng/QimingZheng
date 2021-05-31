@@ -7,6 +7,7 @@ This is Qiming (启明)
 **I’m currently Looking at & Working on & Planning TODO**
 - [x] Compiling-Related
   - [ ] Language Virtual Machine
+    - [x] Garbage Collector
   - [x] Build simple Interpreter & Compiler from scratch
   - [x] Polyhedral optimizations theories (a bunch of mathematical techniques)
   - [x] Learn Halide (&TVM) schedule generation
