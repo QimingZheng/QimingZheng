@@ -5,7 +5,7 @@
 This is Qiming (启明)
 
 **I’m currently Looking at & Working on & Planning TODO**
-- [] Database System (PingCap-TiDB)
+- [ ] Database System (PingCap-TiDB)
   - [ ] Volcano/Cascades Optimizer
   - [ ] Histogram/Count-Min-Sketch based index ordering, Skyline pruning operator 
 - [x] Compiling-Related
