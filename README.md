@@ -5,6 +5,7 @@
 This is Qiming (启明)
 
 **I’m currently Looking at & Working on & Planning TODO**
+- [ ] Memory/Address/Thread Sanitizer: arts of debugging
 - [ ] Database System (PingCap-TiDB)
   - [ ] Volcano/Cascades Optimizer
   - [ ] Histogram/Count-Min-Sketch based index ordering, Skyline pruning operator 
@@ -16,6 +17,5 @@ This is Qiming (启明)
   - [x] Learn Halide (&TVM) schedule generation
   - [ ] Functional Programming Language Compiler
 - [x] Practise full-stack skills using React + Spring Boot + Redis/MySQL
-- [ ] Learn Basic Computer Graphics
 
 **Lifelong Learning, DAY-DAY-UP!**
