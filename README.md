@@ -5,7 +5,9 @@
 This is Qiming (启明)
 
 **I’m currently Looking at & Working on & Planning TODO**
-- [ ] Memory/Address/Thread Sanitizer: arts of debugging
+- [x] Memory/Address/Thread Sanitizer: arts of debugging
+  - [x] Address Sanitizer: [AddressSanitizer: A Fast Address Sanity Checker](https://www.usenix.org/system/files/conference/atc12/atc12-final39.pdf)
+  - [x] Thread Sanitizer: [ThreadSanitizer – data race detection in practice](https://research.google.com/pubs/archive/35604.pdf)
 - [ ] Database System (PingCap-TiDB)
   - [ ] Volcano/Cascades Optimizer
   - [ ] Histogram/Count-Min-Sketch based index ordering, Skyline pruning operator 
